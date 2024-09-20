@@ -52,3 +52,7 @@ The function guides the user through an interactive process to input experiment 
 - Calculations may take some time depending on the complexity of the experimental design.
 - Ensure you provide valid inputs to avoid errors.
 - The generated experimental designs are optimized to minimize variance and maximize efficiency.
+
+### Additional Notes
+
+The time calculation didn't work as intended so I commented it out. Try your luck with it or delete it, the rest of the code works anyway.
